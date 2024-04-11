@@ -1,0 +1,12 @@
+C:\Users\aluno\source\repos\Etec.Bill\Etec.Bill.BO\bin\Debug\Etec.Bill.BO.dll
+C:\Users\aluno\source\repos\Etec.Bill\Etec.Bill.BO\bin\Debug\Etec.Bill.BO.pdb
+C:\Users\aluno\source\repos\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.dll
+C:\Users\aluno\source\repos\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.pdb
+C:\Users\heloi\OneDrive\Documentos\BILL-PORTAO-main\Etec.Bill\Etec.Bill.BO\bin\Debug\Etec.Bill.BO.dll
+C:\Users\heloi\OneDrive\Documentos\BILL-PORTAO-main\Etec.Bill\Etec.Bill.BO\bin\Debug\Etec.Bill.BO.pdb
+C:\Users\heloi\OneDrive\Documentos\BILL-PORTAO-main\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.csproj.AssemblyReference.cache
+C:\Users\heloi\OneDrive\Documentos\BILL-PORTAO-main\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.csproj.CoreCompileInputs.cache
+C:\Users\heloi\OneDrive\Documentos\BILL-PORTAO-main\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.dll
+C:\Users\heloi\OneDrive\Documentos\BILL-PORTAO-main\Etec.Bill\Etec.Bill.BO\obj\Debug\Etec.Bill.BO.pdb
